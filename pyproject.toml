@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "streamlit-pills"
+name = "streamlit-pills-multi"
 version = "0.3.0"
 description = "💊 A Streamlit component to show clickable pills/badges"
 authors = ["Johannes Rieke <johannes.rieke@gmail.com>"]
